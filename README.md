@@ -6,4 +6,4 @@
 ## Tools used
 https://taipy.io/
 https://aistudio.google.com/prompts/new_chat
-![Simple Image](screenshot(222).png)
+![Simple Image](Screenshot(222).png)
